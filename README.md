@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=KushalTanna24.KushalTanna24">
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=illoquehambre.illoquehambre">
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
@@ -26,14 +26,14 @@ Here are some ideas to get you started:
 
 <br>
 <p align="center">
-  Hi, I'm Kushal Tanna, Web Developer/Coder 🥷,  Learner 👨‍💻 &  gamer 🦸‍♂️ from India 🇮🇳
+  Hi, I'm Ignacio Moreno, Web Developer/Coder 🥷,  Learner 👨‍💻  from Spain
   <br>
   <br>
   🎓 Completed my masters degree from <a href="https://www.daiict.ac.in/"> DAIICT.</a>
   <br>
   💻 I love to learn new technologies and frameworks.
   <br>
-  🧑‍💼 I’m currently working as MERN stack developer at <a href="https://www.codezeros.com/"> CODEZEROS </a>
+  🧑‍💼 I’m currently finishing my studies at <a href="[https://www.codezeros.com/](https://triana.salesianos.edu)"> Salesianos Triana </a>
   <br>
 </p>
 
