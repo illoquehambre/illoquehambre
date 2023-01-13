@@ -49,8 +49,11 @@ Here are some ideas to get you started:
 <br>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,python,javascript,css,docker,spring" /><br>
-    <img src="https://skillicons.dev/icons?i=angular,bootstrap,mysql,html,typescript,flutter,vscode,visual,figma" />
+    <img src="https://skillicons.dev/icons?i=git,github" /><br>
+    <h3 align="center">Backend</h3>
+    <img src="https://skillicons.dev/icons?i=python,java,spring,mysql,postgresql,hibernate,firebase,docker javascript,css,docker,spring" /><br>
+    <h3 align="center">Frontend</h3>
+    <img src="https://skillicons.dev/icons?i=typescript,angular,bootstrap,html,flutter,vscode,figma" />
 
   </a>
 </p>
