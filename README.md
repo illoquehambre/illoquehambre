@@ -37,10 +37,10 @@ Here are some ideas to get you started:
 </p>
 
 <div align="center"> 
-  <a href="https://www.youtube.com/channel/UCUrghtGYhkas_MoGzgSKaQA?app=desktop" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:kushaltanna01@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://in.linkedin.com/in/kushal-tanna-870ba7215" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+
+  <a href = "mailto:ignacio.moreno.gomez2003@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/ignacio-moreno-gómez-8a7607220/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 </div>
 
@@ -49,22 +49,17 @@ Here are some ideas to get you started:
 <br>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,react,nodejs,github,python,vue,javascript,css,wordpress,pr,express,styledcomponents,nextjs,graphql" /><br>
-    <img src="https://skillicons.dev/icons?i=angular,bootstrap,mongodb,mysql,django,html,redux,blender,ae,linux,vscode,heroku,figma" />
+    <img src="https://skillicons.dev/icons?i=git,github,python,javascript,css,docker,spring" /><br>
+    <img src="https://skillicons.dev/icons?i=angular,bootstrap,mysql,html,typescript,flutter,vscode,visual,figma" />
 
   </a>
 </p>
 <br>
-<h4>Learning</h4>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,solidity,aws,kubernetes,googlecloud,tensorflow,flutter,electron,docker" />
-  </a>
-</p>
+
 <hr>
 
 <div align="center">
-  <h2>🐍 Snake eating my contribution 🐍</h2>
+  <h2>🐍 Snake eating 🐍</h2>
   <br>
   <img alt="snake eating my contribution" src="https://github.com/KushalTanna24/KushalTanna24/blob/output/github-contribution-grid-snake.svg">
   <br>
