@@ -47,16 +47,22 @@ Here are some ideas to get you started:
 <hr>
 <h2 align="center">🔥 Languages-Frameworks-Tools 🔥</h2>
 <br>
-<p align="center">
+<div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github" /><br>
-    Backend<br>
-    <img src="https://skillicons.dev/icons?i=python,java,spring,mysql,postgresql,hibernate,firebase,docker javascript,css,docker,spring" /><br>
+    <img src="https://skillicons.dev/icons?i=git,github" />
+  </a>
+    <br>
+    <h3 align="center">Backend</h3><br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,java,spring,mysql,postgresql,hibernate,firebase,docker javascript,css,docker,spring" />
+  </a>
+    <br>
     <h3 align="center">Frontend</h3><br>
+  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=typescript,angular,bootstrap,html,flutter,vscode,figma" />
 
   </a>
-</p>
+</div>
 <br>
 
 <hr>
