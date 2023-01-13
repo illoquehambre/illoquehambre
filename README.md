@@ -15,12 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=illoquehambre.illoquehambre">
+<img aling="righ" src="https://visitor-badge.glitch.me/badge?page_id=illoquehambre.visitor-badge&left_color=red&right_color=green&left_text=Hello%20Visitors">
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;+Myself+Kushal+Tanna!;&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;+Myself+Ignacio+Moreno!;&center=true&size=30">
   </a>
 </h1>
 
@@ -29,11 +28,11 @@ Here are some ideas to get you started:
   Hi, I'm Ignacio Moreno, Web Developer/Coder 🥷,  Learner 👨‍💻  from Spain
   <br>
   <br>
-  🎓 Completed my masters degree from <a href="https://www.daiict.ac.in/"> DAIICT.</a>
+  🎓 I’m finishing my studies of Higher Certificate Multi-platform Application Development (NFQ Level 6) at <a href="https://triana.salesianos.edu"> Salesianos Triana </a>
   <br>
   💻 I love to learn new technologies and frameworks.
   <br>
-  🧑‍💼 I’m currently finishing my studies at <a href="[https://www.codezeros.com/](https://triana.salesianos.edu)"> Salesianos Triana </a>
+  🧑‍💼 I’m currently looking for an internship 
   <br>
 </p>
 
