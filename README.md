@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github" /><br>
-    <h3 align="center">Backend</h3><br>
+    Backend<br>
     <img src="https://skillicons.dev/icons?i=python,java,spring,mysql,postgresql,hibernate,firebase,docker javascript,css,docker,spring" /><br>
     <h3 align="center">Frontend</h3><br>
     <img src="https://skillicons.dev/icons?i=typescript,angular,bootstrap,html,flutter,vscode,figma" />
