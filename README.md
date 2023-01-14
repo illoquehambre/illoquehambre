@@ -92,14 +92,14 @@ Here are some ideas to get you started:
   <br><br><br><br><br><br><br><br><br>
   <div align=center>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=5" />
+      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=5(https://github.com/anuraghazra/github-readme-stats)" />
     </a>
   </div>
 
   <br>
   <br>
   <br>
-  <img src="https://activity-graph.herokuapp.com/graph?username=illoquehambre&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+ 
 </p>
 
 
