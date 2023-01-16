@@ -54,7 +54,7 @@ Here are some ideas to get you started:
     <br>
     <h3 align="center">Backend</h3><br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,spring,mysql,postgresql,hibernate,firebase,docker,spring,eclipse,idea,maven,fastapi,nestjs" />
+    <img src="https://skillicons.dev/icons?i=python,java,spring,mysql,postgresql,hibernate,firebase,docker,eclipse,idea,maven,fastapi,nestjs" />
   </a>
     <br>
     <h3 align="center">Frontend</h3><br>
