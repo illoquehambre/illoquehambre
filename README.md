@@ -70,7 +70,7 @@ Here are some ideas to get you started:
 <div align="center">
   <h2>🐍 Snake eating 🐍</h2>
   <br>
-  <img alt="snake eating my contribution" src="https://github.com/KushalTanna24/KushalTanna24/blob/output/github-contribution-grid-snake.svg">
+  <img alt="snake eating my contribution" src="https://github.com/illoquehambre/illoquehambre/blob/output/github-contribution-grid-snake.svg">
   <br>
   <br>
   <br>
@@ -83,7 +83,7 @@ Here are some ideas to get you started:
 <p align=center>
   <div align=center>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=390 src="https://github-readme-streak-stats-sigma-five.herokuapp.com/?user=illoquehambre&theme=react&border=61dafb&hide_border=true" alt="zumrudu-anka" />
+      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=illoquehambre&theme=react&border=61dafb&hide_border=true" alt="zumrudu-anka" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img align="right" width=390 src="https://github-readme-stats-sigma-five.vercel.app/api?username=illoquehambre&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
