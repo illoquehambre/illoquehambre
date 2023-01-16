@@ -54,7 +54,7 @@ Here are some ideas to get you started:
     <br>
     <h3 align="center">Backend</h3><br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,spring,mysql,postgresql,hibernate,firebase,docker,spring,eclipse,idea,maven" />
+    <img src="https://skillicons.dev/icons?i=python,java,spring,mysql,postgresql,hibernate,firebase,docker,spring,eclipse,idea,maven,fastapi,nestjs" />
   </a>
     <br>
     <h3 align="center">Frontend</h3><br>
@@ -80,19 +80,12 @@ Here are some ideas to get you started:
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
-<p align=center>
+
   <div align=center>
     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img align="right" width=390 src="https://github-readme-stats-sigma-five.vercel.app/api?username=illoquehambre&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
     </a>
   </div>
-  <br><br><br><br><br><br><br><br><br>
-  
 
-  <br>
-  <br>
-  <br>
- 
-</p>
 
 
