@@ -83,7 +83,7 @@ Here are some ideas to get you started:
 
   <div align=center>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img align="right" width=100% src="https://github-readme-stats-sigma-five.vercel.app/api?username=illoquehambre&show_icons=true&theme=codeSTACKr&border_color=61dafb&hide_border=true" />
+      <img align="right" width=100% src="https://github-readme-stats-sigma-five.vercel.app/api?username=illoquehambre&show_icons=true&theme=noctis_minimus&border_color=61dafb&hide_border=true" />
     </a>
   </div>
 
