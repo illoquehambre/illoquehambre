@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<!--
 <img aling="righ" src="https://visitor-badge.glitch.me/badge?page_id=illoquehambre.visitor-badge&left_color=red&right_color=green&left_text=Hello%20Visitors">
-
+-->
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+There!+👋;+Myself+Ignacio+Moreno!;&center=true&size=30">
