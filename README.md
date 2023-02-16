@@ -59,7 +59,7 @@ Here are some ideas to get you started:
     <br>
     <h3 align="center">Frontend</h3><br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,angular,bootstrap,html,css,js,reactjs,flutter,dart,vscode,figma,md" />
+    <img src="https://skillicons.dev/icons?i=ts,angular,bootstrap,html,css,js,react,flutter,dart,vscode,figma,md" />
 
   </a>
 </div>
