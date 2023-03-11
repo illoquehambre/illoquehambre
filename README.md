@@ -32,7 +32,7 @@ Here are some ideas to get you started:
   <br>
   💻 I love to learn new technologies and frameworks.
   <br>
-  🧑‍💼 I’m currently looking for an internship 
+  🧑‍💼 I’m currently doing an internship in Ireland and looking for a job after it
   <br>
 </p>
 
