@@ -25,11 +25,11 @@ Here are some ideas to get you started:
 
 <br>
 <p align="center">
-  Hi, I'm Ignacio Moreno, Web Developer/Coder 🥷,  Learner 👨‍💻  from Spain, but currently living in Galway - Ireland
+  Hi, I'm Ignacio Moreno, Web Developer/Coder 🥷,  Learner 👨‍💻  from Spain. Currently living in Galway - Ireland.
   <br>
  
   <br>
-  🎓 I´ve finished my studies of  Multi-platform App Development (NFQ Level 6) at <a href="https://triana.salesianos.edu"> Salesianos Triana</a> on June 2023
+  🎓 I´ve finished my studies of  Multi-platform App Development (NFQ Level 6) at <a href="https://triana.salesianos.edu">Salesians of St. Peter College</a> on June 2023.
   <br>
   💻 I love to learn new technologies and frameworks!.
   <br>
