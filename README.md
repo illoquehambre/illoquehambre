@@ -27,10 +27,12 @@ Here are some ideas to get you started:
 <p align="center">
   Hi, I'm Ignacio Moreno, Web Developer/Coder 🥷,  Learner 👨‍💻  from Spain, but currently living in Galway - Ireland
   <br>
+  My focus lies in building intuitive and attractive applications while prioritizing usability and user experience. I am continuously learning and adapting   to the latest technology trends to ensure that my skills are aligned with market demands.
+
   <br>
-  🎓 I finished my studies of Higher Certificate Multi-platform Application Development (NFQ Level 6) at <a href="https://triana.salesianos.edu"> Salesianos Triana</a> on June 2023
+  🎓 I´ve finished my studies of  Multi-platform App Development (NFQ Level 6) at <a href="https://triana.salesianos.edu"> Salesianos Triana</a> on June 2023
   <br>
-  💻 I love to learn new technologies and frameworks.
+  💻 I love to learn new technologies and frameworks!.
   <br>
   🧑‍💼 I’m currently looking for a new job opportunnity in Ireland after finishing an internship.
   <br>
