@@ -25,14 +25,14 @@ Here are some ideas to get you started:
 
 <br>
 <p align="center">
-  Hi, I'm Ignacio Moreno, Web Developer/Coder 🥷,  Learner 👨‍💻  from Spain
+  Hi, I'm Ignacio Moreno, Web Developer/Coder 🥷,  Learner 👨‍💻  from Spain, but currently living in Galway - Ireland
   <br>
   <br>
-  🎓 I’m finishing my studies of Higher Certificate Multi-platform Application Development (NFQ Level 6) at <a href="https://triana.salesianos.edu"> Salesianos Triana </a>
+  🎓 I finished my studies of Higher Certificate Multi-platform Application Development (NFQ Level 6) at <a href="https://triana.salesianos.edu"> Salesianos Triana</a> on June 2023
   <br>
   💻 I love to learn new technologies and frameworks.
   <br>
-  🧑‍💼 I’m currently doing an internship in Ireland and looking for a job after it
+  🧑‍💼 I’m currently looking for a new job opportunnity in Ireland after finishing an internship.
   <br>
 </p>
 
