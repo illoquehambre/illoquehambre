@@ -25,15 +25,15 @@ Here are some ideas to get you started:
 
 <br>
 <p align="center">
-  Hi, I'm Ignacio Moreno, Web Developer/Coder 🥷,  Learner 👨‍💻  from Spain. Currently living in Galway - Ireland.
+  Hi, I'm Ignacio Moreno, Web Developer/Coder 🥷,  Learner 👨‍💻  from Sevilla, Spain. 
   <br>
  
   <br>
-  🎓 I´ve finished my studies of  Multi-platform App Development (NFQ Level 6) at <a href="https://triana.salesianos.edu">Salesians of St. Peter College</a> on June 2023.
+  🎓 I´ve finished my studies of  Multi-platform App Development  at <a href="https://triana.salesianos.edu">Salesians of St. Peter College</a> on June 2023.
   <br>
   💻 I love to learn new technologies and frameworks!.
   <br>
-  🧑‍💼 I’m currently looking for a new job opportunnity in Ireland after finishing an internship.
+  🧑‍💼 I’m currently looking for a new job opportunnity while I develop projects by my own.
   <br>
 </p>
 
@@ -55,12 +55,12 @@ Here are some ideas to get you started:
     <br>
     <h3 align="center">Backend</h3><br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,spring,mysql,postgresql,hibernate,firebase,docker,eclipse,idea,maven,fastapi,nestjs" />
+    <img src="https://skillicons.dev/icons?i=java,spring,mysql,postgresql,hibernate,firebase,maven" />
   </a>
     <br>
     <h3 align="center">Frontend</h3><br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,angular,bootstrap,html,css,js,react,flutter,dart,vscode,figma,md" />
+    <img src="https://skillicons.dev/icons?i=ts,angular,bootstrap,html,css,js,react,astro,nextjs" />
 
   </a>
 </div>
