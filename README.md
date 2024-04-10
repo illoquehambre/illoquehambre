@@ -68,25 +68,4 @@ Here are some ideas to get you started:
 
 <hr>
 
-<div align="center">
-  <h2>🐍 Snake eating 🐍</h2>
-  <br>
-  <img alt="snake eating my contribution" src="https://github.com/illoquehambre/illoquehambre/blob/output/github-contribution-grid-snake.svg">
-  <br>
-  <br>
-  <br>
-</div>
-
-  <hr>
-
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-
-  <div align=center>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img align="right" width=100% src="https://github-readme-stats-sigma-five.vercel.app/api?username=illoquehambre&show_icons=true&theme=darcula&border_color=61dafb&hide_border=true" />
-    </a>
-  </div>
-
-
 
